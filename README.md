@@ -27,7 +27,7 @@
 >[!NOTE]
 > **COPYRIGHT NOTICE**
 >
-> This repository contains **only** works that Ray Peat made freely available (raypeat.com), and those which were made available by the community (Townsend Letter, etc.). Paid newsletters, and content from his books are **not** included. To access the full body of his work **please consider purchasing them on his website**.
+> This repository contains **only** works that Ray Peat made freely available (raypeat.com), and those which were made available by the community (Townsend Letter, etc.). Paid newsletters, and content from his books are **not** included. To access the full body of his work **please consider purchasing them from his website**.
 
 <div align="center">
   <h2>⚡ Quick Start</h2>
