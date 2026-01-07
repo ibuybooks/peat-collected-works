@@ -1,7 +1,7 @@
 # The Collected Works of Ray Peat
 
 <div align="center">
-  <img src="#" width="350" alt="Book Cover">
+  <img src="https://github.com/user-attachments/assets/797a7705-f22d-4a7f-8a6d-ca66617beb8a" width="350" alt="Book Cover">
   
   <br>
   <br>
